@@ -1,4 +1,5 @@
 print("hello world")
+print("my buddies")
 print("ashik asees")
 print("adarsh")
 print("shyama")
