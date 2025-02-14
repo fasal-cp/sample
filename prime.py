@@ -1,2 +1,2 @@
 print("prime number")
-print("prime under 100")
+print("prime numbers under 100")
